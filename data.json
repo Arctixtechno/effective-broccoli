@@ -1,0 +1,21 @@
+{
+    "question": [
+          "WHAT IS MR KARIKARI'S FAVOURITE FOOD?","WHAT IS MR KARIKARI'S AGE?","HOW OFTEN DO WE DO TESTS IN CS?","WHAT DO WE USE FOR REVISION?","WHO IS THE YOUNGEST IN CLASS?"
+      ],
+    "answer": [
+      1,
+      2,
+      3,
+      2,
+          3
+    ],
+    "options": [
+  
+      ["Jollof rice", "Curry", "Lamb", "Banana rice"],
+      ["10", "50", "62", "40"],
+      ["Every week", "Every term", "Every 2 weeks", "Everyday"],
+      ["Craig and dave", "Past papers", "Wahy", "YouTube"],
+      ["Khalid", "Sami", "Wahy", "Shamima"]
+          
+    ]
+  }
