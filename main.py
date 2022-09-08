@@ -6,6 +6,8 @@ import sys
 import csv
 import json
 
+TK_SILENCE_DEPRECATION = 1
+
 class Quiz:
     def __init__(self):
         self.q_no=0
